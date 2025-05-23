@@ -1,0 +1,8 @@
+pikepdf
+msoffcrypto-tool
+paramiko
+tqdm
+cryptography
+bcrypt
+pynacl
+cffi
