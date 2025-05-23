@@ -5,7 +5,7 @@
 ![Status](https://img.shields.io/badge/status-active-success)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/necati/cat-tools/main/banner.png" alt="Cat Tools Banner" width="600">
+  <img src="https://raw.githubusercontent.com/lilnecati/Cat-tools/main/banner.png" alt="Cat Tools Banner" width="600">
 </p>
 
 > 🔐 Güvenlik testleri için geliştirilmiş, çok amaçlı şifre kırma aracı.
